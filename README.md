@@ -116,115 +116,115 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ## Building Great Products
  - [x] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
  - [ ] [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
- - [ ] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
+ - [x] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
  - [ ] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
- - [ ] [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
- - [ ] [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
+ - [ ] TODO: [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
+ - [ ] TODO: [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
  - [ ] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
 ## Get Out Of The Building
- - [ ] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
+ - [ ] TODO: [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
  - [ ] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
  - [ ] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
- - [ ] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
- - [ ] [Your MVP is about discovery not product](kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt (invalid link)
+ - [ ] TODO: [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
+ - [ ] TODO: [Your MVP is about discovery not product](kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt (invalid link)
 
 ## All About Those Requirements
  - [ ] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
- - [ ] [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
+ - [ ] TODO: [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
  - [ ] [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
- - [ ] [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
+ - [ ] TODO: [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
 
 ## Roadmaps, Planning, and Prioritization
  - [ ] [The seven deadly sins of product planning](http://www.svpg.com/the-seven-deadly-sins-of-product-planning/) - Marty Cagan
- - [ ] [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
- - [ ] [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
+ - [ ] TODO: [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
+ - [ ] TODO: [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
  - [ ] [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
  - [ ] [The opportunity backlog](http://svpg.com/the-opportunity-backlog) - Marty Cagan
  - [ ] [The dirty dozen roadmap roadblocks](http://www.productpowers.com/blog/the-dirty-dozen-roadmap-roadblocks.html) - Bruce McCarthy
  - [ ] [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus) - Kenton Kivetsu
- - [ ] [How am I going to move my product forward today](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
- - [ ] [Don’t publish a product roadmap](dataerous.com/post/51810660125/dont-publish-a-product-roadmap) - Colin Rand (invalid link)
+ - [ ] TODO: [How am I going to move my product forward today](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
+ - [ ] TODO: [Don’t publish a product roadmap](dataerous.com/post/51810660125/dont-publish-a-product-roadmap) - Colin Rand (invalid link)
  - [ ] [Software Inventory](http://www.joelonsoftware.com/items/2012/07/09.html) - Joel Spolsky
  - [ ] [Babe Ruth and feature lists](https://medium.com/bringing-the-donuts/babe-ruth-and-feature-lists-1818bb8c6ca8) - Kenneth Norton
  - [ ] [What are the best ways to prioritize a list of product features](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - Ian McAllister
- - [ ] [Before you plan your product roadmap](http://blog.intercom.io/before-you-plan-your-product-roadmap/) - Des Traynor
+ - [ ] TODO: [Before you plan your product roadmap](http://blog.intercom.io/before-you-plan-your-product-roadmap/) - Des Traynor
  - [ ] [Rodmaps focus on vision benefits, not features](http://www.productpowers.com/blog/roadmaps-focus-on-vision-benefits-not-features.html) - Bruce McCarthy
  - [ ] [The one cost engineers and Product Managers don’t consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider) - Kris Gale
- - [ ] [Guide to Product Planning: Three Feature Buckets](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
+ - [ ] TODO: [Guide to Product Planning: Three Feature Buckets](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
  - [ ] [Product hierarchy of needs](www.salesforceiq.com/blog/product-hierarchy-needs) - Tim Fletcher (invalid link)
  - [ ] [Magical thinking and the zero-sum roadmap](http://www.mironov.com/magical_thinking/) - Rich Mironov
  - [ ] [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
  - [ ] [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
  - [ ] [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
- - [ ] [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
+ - [ ] TODO: [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
  - [ ] [The Product Manager's Visual Guide to Feature Selection](https://taprun.com/articles/product-managers-visual-guide-to-feature-selection) - Adam Juda
 
 ## How To Work With X
- - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
+ - [ ] TODO: [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
  - [ ] [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
- - [ ] [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
- - [ ] [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
+ - [ ] TODO: [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
+ - [ ] TODO: [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
  - [ ] [How to work with software engineers](https://www.kennethnorton.com/essays/how-to-work-with-software-engineers.html) - Kenneth Norton
  - [ ] [The Iceberg Secret, revealed](http://www.joelonsoftware.com/articles/fog0000000356.html) - Joel Spolsky
- - [ ] [Leading cross-functional teams](https://www.kennethnorton.com/essays/leading-cross-functional-teams.html) - Kenneth Norton
+ - [ ] TODO: [Leading cross-functional teams](https://www.kennethnorton.com/essays/leading-cross-functional-teams.html) - Kenneth Norton
  - [ ] [Engineers: So your PM sucks? Here’s how to fix it.](http://blog.ellenchisa.com/2014/07/20/engineers-pm-sucks-heres-fix/) - Ellen Chisa
  - [ ] [Nerds, get the Product Management you deserve](https://medium.com/@jeff7091/nerds-get-the-product-management-you-deserve-3bcf849394c2) - Jeff Enderwick
  - [ ] [The product manager’s lament](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
- - [ ] [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
- - [ ] [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
+ - [ ] TODO: [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
+ - [ ] TODO: [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
 
 ## User Experience
- - [ ] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
+ - [ ] TODO: [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
  - [ ] [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
 
 ## Give and Receive Feedback
- - [ ] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
+ - [ ] TODO: [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
  - [ ] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
  - [ ] [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 
 ## Shipping and Measuring Products
  - [ ] [Shipping is a feature](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
  - [ ] [Great product leaders win games](http://blog.adamnash.com/2012/02/29/great-product-leaders-win-games/) - Adam Nash
- - [ ] [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
- - [ ] [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
- - [ ] [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
+ - [ ] TODO: [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
+ - [ ] TODO: [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
+ - [ ] TODO: [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
  - [ ] [The blind Product Manager](http://blog.intercom.io/the-blind-product-manager/) - Paul Adams
  - [ ] [Shipping beats perfection explained](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Ben Kamens
- - [ ] [Measure twice, cut once](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau
+ - [ ] TODO: [Measure twice, cut once](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau
  - [ ] [The lost art of the soft launch](http://wadefoster.net/post/70145296769/the-lost-art-of-the-soft-launch) - Wade Foster
- - [ ] [What are the most important metrics for developing and managing a mobile product?](https://www.quora.com/What-are-the-most-important-metrics-for-developing-and-managing-a-mobile-product/answer/Drew-Dillon) - Drew Dillon
+ - [ ] TODO: [What are the most important metrics for developing and managing a mobile product?](https://www.quora.com/What-are-the-most-important-metrics-for-developing-and-managing-a-mobile-product/answer/Drew-Dillon) - Drew Dillon
  - [ ] [Google’s HEART Framework for Measuring UX](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux) - Kenny Lee
 
 ## Organizing Your Team
  - [ ] [Enter the Matrix - Organizing Product Management](https://www.braintreepayments.com/braintrust/Enter-the-Matrix-Organizing-Product-Management) - Mark Tattersall
- - [ ] [Product organizational structure](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
+ - [ ] TODO: [Product organizational structure](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
  - [ ] [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
  - [ ] [The best Product Management model](http://svpg.com/the-best-product-management-model/) - Marty Cagan
- - [ ] [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham
- - [ ] [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
+ - [ ] TODO: [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham
+ - [ ] TODO: [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
 
 ## Become The Best In The Field
  - [ ] [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
- - [ ] [Stakeholder Management](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
+ - [ ] TODO: [Stakeholder Management](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
  - [ ] [Court scribe or Hand of the King](http://www.productpowers.com/blog/court-scribe-or-hand-of-the-king.html) - Bruce McCarthy
- - [ ] [Influence without authority](http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority) - Sachin Rekhi
+ - [ ] TODO: [Influence without authority](http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority) - Sachin Rekhi
  - [ ] [Management clichés that work](http://blog.learningbyshipping.com/2014/10/23/management-cliches-that-work/) - Steven Sinofsky
- - [ ] [How to be persuasive](https://pmblog.quora.com/How-to-be-persuasive) - Jackie Bavaro
- - [ ] [Bad Managers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/) - Walter Chen
- - [ ] [Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf) - Ben Horowitz
+ - [ ] TODO: [How to be persuasive](https://pmblog.quora.com/How-to-be-persuasive) - Jackie Bavaro
+ - [ ] TODO: [Bad Managers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/) - Walter Chen
+ - [ ] TODO: [Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf) - Ben Horowitz
  - [ ] [Be a great product leader](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/) - Adam Nash
- - [ ] [Top 10 product leadership lessons](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/) - Adam Nash
+ - [ ] TODO: [Top 10 product leadership lessons](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/) - Adam Nash
  - [ ] [What distinguishes the top 1% of Product Managers from the top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns) - Ian McAllister
  - [ ] [What makes someone a great Product Manager at Google?](https://www.quora.com/What-makes-someone-a-great-product-manager-at-Google?) - Edward Ho
  - [ ] [What innate traits do great internet product leaders share?](https://www.quora.com/What-innate-traits-do-great-Internet-product-leaders-share) - Chris Wetherell
- - [ ] [Musings on Product Management](http://blog.parsely.com/post/907/musings-on-product-management/) - Mike Sukmanowsky
+ - [ ] TODO: [Musings on Product Management](http://blog.parsely.com/post/907/musings-on-product-management/) - Mike Sukmanowsky
  - [ ] [Hiring a great product leader](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974) - Sutha Kamal
  - [ ] [What makes a great Product Manager?](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
  - [ ] [How a football coach taught me to product manage like a boss](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
 
 ## Minimum Viable Product Manager (MVPM)
- - [ ] [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421) - Brandon Chu
+ - [ ] TODO: [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421) - Brandon Chu
 
 # Core 2: Resources
 ## Resource Repositories
