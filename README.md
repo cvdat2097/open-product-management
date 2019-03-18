@@ -133,7 +133,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
  - [x] [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
  - [ ] [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
- - [ ] TODO: [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
+ - [x] [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
 
 ## Roadmaps, Planning, and Prioritization
  - [ ] [The seven deadly sins of product planning](http://www.svpg.com/the-seven-deadly-sins-of-product-planning/) - Marty Cagan
