@@ -119,11 +119,11 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
  - [ ] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
  - [x] [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
- - [ ] TODO: [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
+ - [x] [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
  - [ ] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
 ## Get Out Of The Building
- - [ ] TODO: [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
+ - [x] [How to Listen to Customers](https://www.kennorton.com/essays/how-to-listen-to-customers.html) - Kenneth Norton
  - [ ] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
  - [ ] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
  - [ ] TODO: [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
