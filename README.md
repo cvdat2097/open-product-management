@@ -137,7 +137,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## Roadmaps, Planning, and Prioritization
  - [ ] [The seven deadly sins of product planning](http://www.svpg.com/the-seven-deadly-sins-of-product-planning/) - Marty Cagan
- - [ ] TODO: [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
+ - [x] [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
  - [ ] TODO: [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
  - [ ] [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
  - [ ] [The opportunity backlog](http://svpg.com/the-opportunity-backlog) - Marty Cagan
