@@ -175,8 +175,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] TODO: [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
 
 ## User Experience
- - [ ] TODO: [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
- - [ ] [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
+ - [x] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
+ - [x] [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
 
 ## Give and Receive Feedback
  - [ ] TODO: [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
