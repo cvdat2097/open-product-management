@@ -179,7 +179,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
 
 ## Give and Receive Feedback
- - [ ] TODO: [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
+ - [x] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
  - [ ] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
  - [ ] [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 
