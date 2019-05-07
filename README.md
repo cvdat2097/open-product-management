@@ -161,7 +161,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [The Product Manager's Visual Guide to Feature Selection](https://taprun.com/articles/product-managers-visual-guide-to-feature-selection) - Adam Juda
 
 ## How To Work With X
- - [ ] TODO: [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
+ - [x] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
  - [ ] [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
  - [ ] TODO: [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
  - [ ] TODO: [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
@@ -186,9 +186,9 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ## Shipping and Measuring Products
  - [ ] [Shipping is a feature](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
  - [ ] [Great product leaders win games](http://blog.adamnash.com/2012/02/29/great-product-leaders-win-games/) - Adam Nash
- - [ ] TODO: [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
- - [ ] TODO: [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
- - [ ] TODO: [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
+ - [x] [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
+ - [x] [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
+ - [x] [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
  - [ ] [The blind Product Manager](http://blog.intercom.io/the-blind-product-manager/) - Paul Adams
  - [ ] [Shipping beats perfection explained](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Ben Kamens
  - [ ] TODO: [Measure twice, cut once](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau
