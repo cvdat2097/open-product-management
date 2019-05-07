@@ -164,7 +164,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
  - [ ] [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
  - [ ] TODO: [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
- - [ ] TODO: [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
+ - [x] [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
  - [ ] [How to work with software engineers](https://www.kennethnorton.com/essays/how-to-work-with-software-engineers.html) - Kenneth Norton
  - [ ] [The Iceberg Secret, revealed](http://www.joelonsoftware.com/articles/fog0000000356.html) - Joel Spolsky
  - [ ] TODO: [Leading cross-functional teams](https://www.kennethnorton.com/essays/leading-cross-functional-teams.html) - Kenneth Norton
